@@ -10,12 +10,12 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "@webpack-cli/migrate": "^0.1.5",
+    "@webpack-cli/migrate": "^1.1.2",
     "mini-css-extract-plugin": "^0.5.0",
-    "node-sass": "^4.12.0",
+    "node-sass": "^9.0.0",
     "sass-loader": "^7.1.0",
     "sir-trevor": "^0.8.2",
-    "webpack": "^4.28.4",
+    "webpack": "^5.95.0",
     "webpack-cli": "^3.2.1"
   }
 }
